@@ -17,7 +17,7 @@ public class UserRepository {
     private final static AtomicInteger idGenerator = new AtomicInteger();
 
     /**
-     * 保存用户对象
+     * 保存用户的对象
      * @param user [User]对象
      * @return 如果保存成功，返回true
      * 否则 返回false
