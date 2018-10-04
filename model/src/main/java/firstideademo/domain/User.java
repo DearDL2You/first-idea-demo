@@ -6,7 +6,7 @@ package firstideademo.domain;
 public class User {
 
     /**
-     * 用户ID
+     * 用户IDs
      */
     private String id;
     /**
